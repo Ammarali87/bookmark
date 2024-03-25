@@ -1,0 +1,31 @@
+
+ body {
+	background-color: #F7ECDE
+ }
+h1 {
+	font-family: "Ruge Boogie", cursive;
+	font-weight: 1000;
+	font-style: normal;
+	font-size: 66px;
+  }
+  
+.yellow{
+background: linear-gradient(to right, #06e76b, #d9ff00);
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-weight: bold;
+  }
+
+  a{
+	text-decoration: none;
+	letter-spacing: 2px;
+	color:white
+}
+
+.aa{
+	background-color: #c6c90b;
+ }
+
+
+
+
